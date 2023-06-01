@@ -1,0 +1,95 @@
+@charset "utf-8";
+body {
+	width:auto;
+  font-size: 16px;
+  background-color:#f7992c;
+  font-family: Grandview, Arial, Calibri;
+}
+
+h1{
+color:brown,
+}
+p{
+
+  font-size: large;
+}
+
+li{margin-inline: 40px;
+  display:inline;
+  
+  }
+
+  a{
+    text-decoration: none;
+    font-weight: 700;
+   color:gold;}
+  
+
+
+
+aside{
+
+  width:300px;
+ 
+}
+button{
+
+  background-color: #c61414;
+}
+
+#titulo{
+
+  color:#c61414;
+text-align: center;
+  font-size: 1.7em;
+
+  font-family: Grandview, Arial, Calibri;
+}
+
+
+#navegador{
+display:flex;
+justify-content: flex-end;
+background-color: #c61414;
+
+}
+#artikeln{
+
+float:left;
+
+}
+#studieren{
+
+border: rgb(15, 15, 15) solid 5px;
+
+}
+
+.art{
+  background-color: #a8600f;
+  border:#000000 solid 5px;
+}
+
+.titessen{
+
+  float:left;
+}
+#a{
+
+  width: 60%;
+  margin-left:30%;
+  margin-top:50px;
+  float:none;
+}
+
+#zurruck{
+
+margin-top:23px;
+margin-left:10px;
+background-color: #c61414;
+}
+#fotoperfil{
+
+margin-left:50%;
+margin-top:5%;
+}
+
